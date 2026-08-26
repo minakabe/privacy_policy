@@ -75,13 +75,23 @@ Users can also disconnect their Google account from the App.
 
 Information stored locally on the device may also be removed by uninstalling the App.
 
-9. Changes to This Privacy Policy
+9. Advertising
+
+This application uses Google AdMob, an advertising service provided by Google LLC.
+
+AdMob may collect and use information such as advertising identifiers, device information, IP addresses, and app usage information for purposes including delivering advertisements and measuring advertising effectiveness.
+
+Depending on the user's consent status and region, personalized or non-personalized advertisements may be displayed.
+
+For more information about how Google handles information, please refer to Google's Privacy Policy.
+
+10. Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time as necessary.
 
 If significant changes are made, the updated Privacy Policy will be published at the relevant location.
 
-10. Contact
+11. Contact
 
 If you have any questions or concerns regarding this Privacy Policy or the App, please contact us at:
 
