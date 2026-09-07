@@ -1,6 +1,6 @@
 Privacy Policy for YouTube Live Calendar
 
-Last updated: August 26, 2026
+Last updated: September 8, 2026
 
 1. Introduction
 
@@ -30,6 +30,10 @@ Notification settings
 
 This information is stored locally on your device for the purpose of providing the App's features.
 
+Information Sent to and Stored on Our Server
+
+To detect scheduled live streams, when you enable tracking for a YouTube channel, the App sends that channel's YouTube channel ID to a server operated by the App's developer (Firebase / Google Cloud Platform) and stores it there. The App also caches publicly available information about live streams on YouTube (such as title, thumbnail image, and scheduled start time) on the same server. None of this information is stored in a way that is linked to a specific user's identity.
+
 3. How We Use Information
 
 The information accessed or stored by the App is used for the following purposes:
@@ -42,9 +46,9 @@ Providing notifications before scheduled live streams
 Providing and improving the App's functionality
 4. Data Storage
 
-Information registered in the App is generally stored locally on the user's device.
+User-specific settings, such as notification preferences, are stored locally on your device.
 
-The operator of the App does not operate a server for storing users' YouTube channel information or live stream schedule information.
+In order to detect scheduled live streams, the YouTube channel IDs of channels you have chosen to track, along with publicly available information about live streams on YouTube (such as title, thumbnail image, and scheduled start time), are sent to and stored on a server operated by the App's developer (Firebase / Google Cloud Platform). This information is all publicly available on YouTube and is not stored in a way that links it to your personal identity.
 
 5. Google Sign-In and YouTube Data API
 
@@ -64,6 +68,7 @@ The App uses the following third-party services:
 
 Google Sign-In
 YouTube Data API
+Firebase / Google Cloud Platform (Google LLC)
 
 The handling of information by these services is governed by their respective privacy policies and terms.
 
