@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Last updated: September 27, 2026
+Last updated: September 28, 2026
 
-"Character Item Counter" (hereinafter referred to as the "App") respects your privacy and strives to handle information appropriately. This Privacy Policy explains how the App handles information.
+"フィクション出納帳" (hereinafter referred to as the "App") respects your privacy and strives to handle information appropriately. This Privacy Policy explains how the App handles information.
 
 ## 1. Information Handled by the App
 
@@ -38,7 +38,7 @@ You may optionally use the App's feature to back up and restore data using Googl
 
 The only Google Drive permission the App requests is the permission to access files created by the App (drive.file). The App does not view or modify any other files in your Google Drive.
 
-The App saves the following as a single backup file (ZIP format) in the "Character Item Counter" folder in your My Drive:
+The App saves the following as a single backup file (ZIP format) in the "フィクション出納帳" folder in your My Drive:
 
 * The information you registered as described in 1.1 (works, characters, items, records, item dictionary, tags, and usage slots added by watching ads)
 * Images you set for works, characters, and items
