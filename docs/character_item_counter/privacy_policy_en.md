@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: September 28, 2026
+Last updated: September 30, 2026
 
 "フィクション出納帳" (hereinafter referred to as the "App") respects your privacy and strives to handle information appropriately. This Privacy Policy explains how the App handles information.
 
@@ -15,7 +15,7 @@ The App stores the following information that you enter or register on your devi
 * Item information (inventory; item dictionary entries including name, description, unit price, tags, material / craftable / uncraftable classification, and recipes)
 * Records of changes to items and money (type, event name, name of the other party, memo, date and time)
 * Images you set for works, characters, and items
-* App settings (tutorial completion status and usage slots added by watching ads)
+* App settings (tutorial completion status, Tips already displayed, and usage slots added by watching ads)
 
 This information is used only to provide the App's features and is never sent to servers operated by the App's developer. The App's developer does not view or collect this information.
 
@@ -28,6 +28,14 @@ The App accesses your device's photo library (or a file selection dialog on comp
 * Only the image you select is read.
 * The selected image is copied to the App's own storage area so that it can be displayed.
 * When you change or remove an image, or delete the work, character, or item it belongs to, the copy saved by the App is also deleted.
+
+### 1.3 Inquiries and Feedback
+
+When you select "お問い合わせ・ご意見" (Inquiries and Feedback) on the App's settings screen, the App opens an input page of Google Forms, a service provided by Google LLC, in your browser.
+
+* The content you enter in the form (the text of your inquiry or feedback and, if you enter it, your email address for a reply) is delivered to the App's developer through Google Forms only when you submit it.
+* The App does not automatically fill in or submit any information to the form. The information you register in the App (1.1) and your images (1.2) are never sent.
+* The content we receive is used only to respond to your inquiry and to improve the App, and is not provided to third parties except as required by law.
 
 ## 2. Backup to Google Drive
 
@@ -76,6 +84,8 @@ The App communicates over the network only in the following cases:
 * To display ads (Google AdMob) and to check consent for advertising
 * To communicate with your Google account and Google Drive when you back up or restore data using Google Drive
 
+The inquiry and feedback forms (1.3) are opened in your browser, so communication with the forms is performed by your browser.
+
 ## 6. Sharing of Information with Third Parties
 
 The App does not sell or share your information with third parties.
@@ -88,6 +98,7 @@ The App uses the following third-party services:
 * Google User Messaging Platform (Google LLC)
 * Google Sign-In (Google LLC)
 * Google Drive API (Google LLC)
+* Google Forms (Google LLC)
 
 The handling of information by these services is governed by their respective providers' privacy policies.
 
@@ -105,6 +116,6 @@ If there are significant changes, we will notify you through the App or on the p
 
 ## 10. Contact
 
-For inquiries regarding this Privacy Policy or the App, please contact:
+For inquiries regarding this Privacy Policy or the App, please use "お問い合わせ・ご意見" (Inquiries and Feedback) on the App's settings screen, or contact:
 
 info@minakabe-growth.com
