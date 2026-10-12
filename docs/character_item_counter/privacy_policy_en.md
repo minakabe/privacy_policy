@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: September 30, 2026
+Last updated: October 12, 2026
 
 "フィクション出納帳" (hereinafter referred to as the "App") respects your privacy and strives to handle information appropriately. This Privacy Policy explains how the App handles information.
 
@@ -11,11 +11,11 @@ Last updated: September 30, 2026
 The App stores the following information that you enter or register on your device.
 
 * Work information (title, description, currency unit)
-* Character information (name, profile, money, notes, tags)
-* Item information (inventory; item dictionary entries including name, description, unit price, tags, material / craftable / uncraftable classification, and recipes)
+* Character information (name, reading (furigana), profile, money, notes, tags)
+* Item information (inventory; item dictionary entries including name, reading (furigana), description, unit price, tags, material / craftable / uncraftable classification, and recipes)
 * Records of changes to items and money (type, event name, name of the other party, memo, date and time)
 * Images you set for works, characters, and items
-* App settings (tutorial completion status, Tips already displayed, and usage slots added by watching ads)
+* App settings (tutorial completion status, Tips already displayed, sort order of lists, and usage slots added by watching ads)
 
 This information is used only to provide the App's features and is never sent to servers operated by the App's developer. The App's developer does not view or collect this information.
 
@@ -36,6 +36,14 @@ When you select "お問い合わせ・ご意見" (Inquiries and Feedback) on the
 * The content you enter in the form (the text of your inquiry or feedback and, if you enter it, your email address for a reply) is delivered to the App's developer through Google Forms only when you submit it.
 * The App does not automatically fill in or submit any information to the form. The information you register in the App (1.1) and your images (1.2) are never sent.
 * The content we receive is used only to respond to your inquiry and to improve the App, and is not provided to third parties except as required by law.
+
+### 1.4 JSON Import and Export
+
+The App can import and export item and character information in JSON format.
+
+* When importing, the App reads only the text you paste into the input field or the file you select in your device's file selection dialog. The imported content is used only to add items to the item dictionary. Files are selected through your device's file selection dialog, and the App does not request permission to access your device's entire storage.
+* When exporting, the App writes out, from the information described in 1.1, either the item dictionary information or the character information (name, reading, profile, money, notes, tags, and inventory). The exported content is passed only to the destination you choose (an app or service you select in your device's share menu) or to the clipboard.
+* Information passed through the share menu is handled in accordance with the policies of the destination app or service. It is never sent to the App's developer.
 
 ## 2. Backup to Google Drive
 
@@ -84,7 +92,7 @@ The App communicates over the network only in the following cases:
 * To display ads (Google AdMob) and to check consent for advertising
 * To communicate with your Google account and Google Drive when you back up or restore data using Google Drive
 
-The inquiry and feedback forms (1.3) are opened in your browser, so communication with the forms is performed by your browser.
+The inquiry and feedback forms (1.3) are opened in your browser, so communication with the forms is performed by your browser. The App itself does not communicate when exporting (1.4), although the destination you choose in the share menu may communicate.
 
 ## 6. Sharing of Information with Third Parties
 
