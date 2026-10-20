@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: October 19, 2026
+Last updated: October 20, 2026
 
 "フィクション名簿帳" (hereinafter referred to as the "App") respects your privacy and strives to handle information appropriately. This Privacy Policy explains how the App handles information.
 
@@ -16,7 +16,7 @@ The App stores the following information that you enter or register on your devi
 * Tag information
 * Timeline records (labels and in-story dates of timeline points, and changes to character settings at each point)
 * Images you set for works, characters, and other entries (including images used in timeline records)
-* App settings (Tips already displayed, the default way of managing timeline points, the timeline point used as the basis for display, usage slots added by watching ads, etc.)
+* App settings (tutorial completion status, Tips already displayed, sort order of lists, the default way of managing timeline points, the timeline point used as the basis for display, usage slots added by watching ads, etc.)
 
 This information is used only to provide the App's features and is never sent to servers operated by the App's developer. The App's developer does not view or collect this information.
 
