@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: October 12, 2026
+Last updated: October 27, 2026
 
 "フィクション出納帳" (hereinafter referred to as the "App") respects your privacy and strives to handle information appropriately. This Privacy Policy explains how the App handles information.
 
@@ -41,7 +41,7 @@ When you select "お問い合わせ・ご意見" (Inquiries and Feedback) on the
 
 The App can import and export item and character information in JSON format.
 
-* When importing, the App reads only the text you paste into the input field or the file you select in your device's file selection dialog. The imported content is used only to add items to the item dictionary. Files are selected through your device's file selection dialog, and the App does not request permission to access your device's entire storage.
+* When importing, the App reads only the text you paste into the input field or the file you select in your device's file selection dialog. The imported content is used only to add items to the item dictionary and to add characters (or, if you choose to overwrite characters with the same name, to update their information). Files are selected through your device's file selection dialog, and the App does not request permission to access your device's entire storage.
 * When exporting, the App writes out, from the information described in 1.1, either the item dictionary information or the character information (name, reading, profile, money, notes, tags, and inventory). The exported content is passed only to the destination you choose (an app or service you select in your device's share menu) or to the clipboard.
 * Information passed through the share menu is handled in accordance with the policies of the destination app or service. It is never sent to the App's developer.
 
