@@ -9,3 +9,9 @@
 ![日本語](./youtube_live_calendar/privacy_policy_ja.md)
 
 ![English](./youtube_live_calendar/privacy_policy_en.md)
+
+# Live Calendar List（旧 YouTube Live Calendar）のプライバシーポリシー置き場です。
+
+![日本語](./live_calendar_list/privacy_policy_ja.md)
+
+![English](./live_calendar_list/privacy_policy_en.md)
