@@ -16,9 +16,9 @@ The App uses Google Sign-In to retrieve your YouTube subscriptions. When you sig
 * Your email address, display name, and profile picture
 * An access token for reading your YouTube data, and an ID token for verifying your identity
 
-Your email address, display name, and profile picture are used only to show the signed-in account on the settings screen.
+Your email address, display name, and profile picture are used on your device only, to show the signed-in account on the settings screen. They are never sent to or stored on the developer's servers.
 
-To use the App's server features (Firebase), the App also signs you in to "Firebase Authentication", provided by Google LLC. When this happens, your Google account identifier, email address, display name, and profile picture are registered in Firebase Authentication. This information is used only for authentication; the developer does not use it for advertising, analytics, or any other purpose.
+The App does not let you create an account of its own. The developer does not register or store your account information (such as your Google account identifier, email address, display name, or profile picture) on its servers.
 
 ### 1.2 YouTube Data (YouTube API Services)
 
@@ -68,7 +68,7 @@ The App uses your device's notification feature to notify you before live stream
 
 Information is used only for the following purposes:
 
-* Signing in with your Google account and authenticating with the App's server features
+* Signing in with your Google account, and verifying that requests to the server are legitimate
 * Retrieving and displaying your YouTube subscriptions
 * Retrieving and displaying scheduled live streams in a list and a calendar
 * Notifying you before live streams start
@@ -101,14 +101,13 @@ To provide its features, the App uses the following external services. The handl
 
 * Google Sign-In (Google LLC)
 * YouTube API Services (Google LLC)
-* Firebase Authentication, Cloud Firestore, and Cloud Functions for Firebase (Google LLC)
+* Cloud Firestore and Cloud Functions for Firebase (Google LLC)
 * Google AdMob (Google LLC)
 
 ## 6. Retention and Deletion
 
 * **Information on your device**: deleted when you uninstall the App. You can change which channels are displayed at any time in the App, and watch history entries older than three months are deleted automatically.
 * **Connection to your Google account**: you can sign out from "Log out" on the settings screen. You can also revoke the App's access at any time from the [third-party apps & services page of your Google Account](https://myaccount.google.com/connections). After access is revoked, the App can no longer retrieve your YouTube data.
-* **Information registered in Firebase Authentication**: contact us at the address in Section 11 and we will delete it.
 * **Channel IDs and live stream information on the server**: these are not linked to any specific user, so they cannot be deleted as an individual user's information. Information for channels that no user displays any longer is updated and deleted over time.
 
 ## 7. Security
@@ -129,6 +128,6 @@ The App is provided by an individual developer, "Minakabe".
 
 ## 11. Contact
 
-For questions about this Privacy Policy or the App, or to request deletion of your information, please contact:
+For questions about this Privacy Policy or the App, please contact:
 
 Contact: info@minakabe-growth.com
